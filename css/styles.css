@@ -212,5 +212,5 @@ footer {
     .footer-img{    display: inline;
     padding: 0;
     margin: 0 11px;}
-    footer p{    font-size: 14px;}
+    footer p{    font-size: 14px;text-align: center;}
 }
